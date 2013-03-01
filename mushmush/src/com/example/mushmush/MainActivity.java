@@ -10,6 +10,11 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		helloWorld();
+	}
+
+	private void helloWorld() {
+		System.out.println("hello World");		
 	}
 
 	@Override
