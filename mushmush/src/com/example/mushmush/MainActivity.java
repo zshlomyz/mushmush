@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
 	}
 
 	private void helloWorld() {
-		System.out.println("hello World");		
+		System.out.println("hello git");		
 	}
 
 	@Override
